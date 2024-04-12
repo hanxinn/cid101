@@ -9,4 +9,5 @@ body {
 
 .menu li {
     margin: 10px 20px;
+    list-style: none;
 }
